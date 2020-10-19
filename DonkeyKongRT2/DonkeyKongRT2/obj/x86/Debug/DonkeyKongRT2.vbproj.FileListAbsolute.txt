@@ -1,0 +1,12 @@
+E:\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.vbprojResolveAssemblyReference.cache
+E:\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.Form1.resources
+E:\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.Youdieform.resources
+E:\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.WINform.resources
+E:\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.StartScreen.resources
+E:\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.vbproj.GenerateResource.Cache
+C:\Users\reube\Desktop\Old Stuff\Homemade Programs + Games\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.vbprojAssemblyReference.cache
+C:\Users\reube\Desktop\Old Stuff\Homemade Programs + Games\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.Form1.resources
+C:\Users\reube\Desktop\Old Stuff\Homemade Programs + Games\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.Youdieform.resources
+C:\Users\reube\Desktop\Old Stuff\Homemade Programs + Games\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.WINform.resources
+C:\Users\reube\Desktop\Old Stuff\Homemade Programs + Games\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.StartScreen.resources
+C:\Users\reube\Desktop\Old Stuff\Homemade Programs + Games\DonkeyKongRT2\DonkeyKongRT2\obj\x86\Debug\DonkeyKongRT2.vbproj.GenerateResource.cache
